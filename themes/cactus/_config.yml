@@ -30,23 +30,23 @@ social_links:
   -
     icon: github
     link: http://github.com/manydreams
-  -
-    icon: twitter
-    link: /
-  -
-    icon: facebook
-    link: /
-  -
-    icon: mail
-    link: mailto:name@email.com
-  -
-    icon: mastodon
-    label: mastodon.social
-    link: https://mastodon.social/@alice
-  -
-    icon: mastodon
-    label: fosstodon.org
-    link: https://fosstodon.org/@alice
+  # -
+  #   icon: twitter
+  #   link: /
+  # -
+  #   icon: facebook
+  #   link: /
+  # -
+  #   icon: mail
+  #   link: mailto:name@email.com
+  # -
+  #   icon: mastodon
+  #   label: mastodon.social
+  #   link: https://mastodon.social/@alice
+  # -
+  #   icon: mastodon
+  #   label: fosstodon.org
+  #   link: https://fosstodon.org/@alice
 
 # Customize the overview with displaying a tagcloud on the index page.
 # Options: https://hexo.io/docs/helpers.html#tagcloud
