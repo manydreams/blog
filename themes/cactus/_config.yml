@@ -37,9 +37,9 @@ social_links:
   # -
   #   icon: facebook
   #   link: /
-  # -
-  #   icon: mail
-  #   link: mailto:name@email.com
+  -
+    icon: mail
+    link: mailto:manydreams27@gmail.com
   # -
   #   icon: mastodon
   #   label: mastodon.social
