@@ -10,3 +10,5 @@ This is my first blog post.
 ```c
 printf("Hello, World!");
 ```
+
+![test jpg](https://ooo.0x0.ooo/2023/11/11/OeAj0F.jpg)
