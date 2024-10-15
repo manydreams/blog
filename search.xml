@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>Monthly TODO - 2024/10/16</title>
+      <link href="/2024/10/16/Monthly-TODO-2024-10-16/"/>
+      <url>/2024/10/16/Monthly-TODO-2024-10-16/</url>
+      
+        <content type="html"><![CDATA[<ul><li>[108&#x2F;332] 阅读《Linux内核设计与实现》</li><li>[113&#x2F;231] 阅读《The-Art-of-Deception》</li><li>[✔️] 开发一个基于纯c的minecraft slp服务器&#x2F;客户端框架</li><li><input disabled="" type="checkbox"> 开发b站评论用户分析项目（WebUI）</li><li><input disabled="" type="checkbox"> 学习Rust基础语法</li><li>[1&#x2F;5] 写5篇技术博客</li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> TODO </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> TODO </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>关于C语言链表，队列的实现</title>
       <link href="/2024/10/16/%E5%85%B3%E4%BA%8EC%E8%AF%AD%E8%A8%80%E9%93%BE%E8%A1%A8%EF%BC%8C%E9%98%9F%E5%88%97%E7%9A%84%E5%AE%9E%E7%8E%B0/"/>
       <url>/2024/10/16/%E5%85%B3%E4%BA%8EC%E8%AF%AD%E8%A8%80%E9%93%BE%E8%A1%A8%EF%BC%8C%E9%98%9F%E5%88%97%E7%9A%84%E5%AE%9E%E7%8E%B0/</url>
