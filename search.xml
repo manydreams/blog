@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>hello my blog</title>
+      <link href="/2024/10/15/hello-my-blog/"/>
+      <url>/2024/10/15/hello-my-blog/</url>
+      
+        <content type="html"><![CDATA[<p>This is my first blog post.</p><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">printf</span>(<span class="string">&quot;Hello, World!&quot;</span>);</span><br></pre></td></tr></table></figure><p><img src="https://ooo.0x0.ooo/2023/11/11/OeAj0F.jpg" alt="test jpg"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Hello </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Hello </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
