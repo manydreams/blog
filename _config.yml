@@ -8,7 +8,7 @@ subtitle: ''
 description: ''
 keywords:
 author: Damberve
-language: zh
+language: zh-CN
 timezone: ''
 
 # URL
@@ -106,3 +106,6 @@ deploy:
   repo: git@github.com:manydreams/blog.git
   # example, https://github.com/hexojs/hexojs.github.io
   branch: site
+
+marked: 
+  breaks: false
