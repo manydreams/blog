@@ -9,6 +9,8 @@ tags:
  - 数据结构
 ---
 
+## 版权声明：本文依据[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)许可证进行授权，转载请附上出处链接及本声明。
+
 ## 前言
 
 最近在读***Linux内核设计与实现***的时候，觉得linux内核里的链表实现很有意思，于是就
